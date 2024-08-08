@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🔭 My name is Matheus Emmanuel Maciel Pontes and currently the Head of the Purchasing Department at the Prefeitura Municipal de Ipueiras/CE.<br>👯 I am seeking a job in the field of Software Engineering, preferably as a Front-End Designer.<br>🤝 I am currently studying JavaScript and Node.js.<br>🌱 Iently learning<br>💬 Ask me about anything you want<br>⚡ A unique fact about me is that I have always loved the aviation field and initially hoped to pursue a career in it.<br>I currently hold a private pilot's license and a flight attendant's license, but have never worked in the aviation industry.
 
 
