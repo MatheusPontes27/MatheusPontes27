@@ -1,35 +1,76 @@
-<h1 align="center">Hi 👋, I'm Matheus Emmanuel Maciel Pontes</h1>
-<h3 align="center">A Software Engineer from Brazil</h3>
+<h1 align="center">
+  ✈️🚀 Bem-vindo ao hangar de ideias de <br><strong>Matheus Emmanuel Maciel Pontes</strong> 🧑‍💻
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuspontes27&label=Profile%20views&color=0e75b6&style=flat" alt="matheuspontes27" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheuspontes27" alt="matheuspontes27" /></a> </p>
-
-- 🔭 I’m currently working on [EstacaoMeteorologica](https://github.com/MatheusPontes27/EstacaoMeteorologica)
-
-- 👯 I’m looking to collaborate on **any project**
-
-- 🤝 I’m looking for help with **any project**
-
-- 👨‍💻 All of my projects are available at [https://matheuspontes27.github.io/Portfolio/](https://matheuspontes27.github.io/Portfolio/)
-
-- 💬 Ask me about **Java,SQL, HTML, CSS, Node**
-
-- 📫 How to reach me **matheusemmanuel71@gmail.com**
-
-- ⚡ Fun fact **I'm a real pilot**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/matheusempontes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusempontes" height="30" width="40" /></a>
-<a href="https://instagram.com/matheusepontes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheusepontes" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/header_3d_coding.gif" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<h3 align="center">🌍 Engenheiro de Software • Piloto Privado • Entusiasta Espacial 🌌</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuspontes27&show_icons=true&locale=en&layout=compact" alt="matheuspontes27" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=matheuspontes27&label=Profile%20views&color=blueviolet&style=plastic" alt="Profile Views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheuspontes27&show_icons=true&locale=en" alt="matheuspontes27" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuspontes27&" alt="matheuspontes27" /></p>
+🚧 <strong>Em construção perpétua como a ISS</strong> — Atualmente trabalhando no projeto  
+📡 <a href="https://github.com/MatheusPontes27/EstacaoMeteorologica" target="_blank">Estação Meteorológica com ESP8266</a>  
+🤝 Aberto a colaborações, parcerias e aventuras tecnológicas  
+🌐 Meu portfólio completo está pousado em:  
+<a href="https://matheuspontes27.github.io/Portfolio/" target="_blank">matheuspontes27.github.io/Portfolio</a>  
+📬 Contato: **matheusemmanuel71@gmail.com**  
+🛩️ Fato curioso: *Sim, eu piloto de verdade – não só o teclado* 😄
+
+---
+
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css,mysql,arduino,figma,aws,c" />
+</p>
+
+---
+
+<h2 align="center">🏆 Conquistas</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=matheuspontes27&theme=gruvbox&row=2&column=4" alt="Trophies" />
+</p>
+
+---
+
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuspontes27&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuspontes27&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspontes27&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="center">🌐 Vamos nos conectar!</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/matheusempontes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/matheusepontes" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="mailto:matheusemmanuel71@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🧠 Dev + Aviação = 💡Inovação</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGIzdTJoaHpmam82OGs5MmhseGZkaHFvd3pqa2Q3YXN6Z2M3N21rYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT4uQulxzV39haRFjG/giphy.gif" width="300" />
+</p>
+
+<p align="center"><em>“A mente que se abre a uma nova ideia jamais volta ao seu tamanho original.” – Albert Einstein</em></p>
